@@ -1,0 +1,64 @@
+{
+  "recipes": [
+    {
+      "id": "welsh-leek-rarebit",
+      "title": "Welsh leek rarebit",
+      "image": "https://perlemedia.com/meal-planner/wp-content/uploads/2022/09/welsh-leek-rarebit.jpeg",
+      "calories": 235,
+      "time": 20,
+      "servings": 2,
+      "nutrition": {
+        "fat": "11.1",
+        "saturates": "4.4",
+        "sugar": "2.8",
+        "protein": "13.1",
+        "carbs": "18.3",
+        "fiber": "5.0"
+      },
+      "steps": [
+        "Add the oil to a pan, then add the chopped leek and cook over a low to medium heat, stirring frequently, for 4 minutes until it is soft.<br />\r\n",
+        "Remove the leek from the heat and allow it to cool for a few minutes.<br />\r\n<br />\r\n",
+        "Meanwhile, turn on the grill to high and toast one side of the rye bread.<br />\r\n<br />\r\n",
+        "Add the egg to a bowl with the mustard, and beat lightly. Next, stir in half the grated cheese and all the leek.",
+        "Spread the mixture evenly over the untoasted side of the bread, sprinkle with the remaining cheese and grill for about 2–3 minutes until golden brown.<br />\r\n"
+      ],
+      "ingredients": [
+        {
+          "quantity": "1",
+          "measurement": "",
+          "ingredient": "Eggs"
+        },
+        {
+          "quantity": "1",
+          "measurement": "",
+          "ingredient": "Leeks"
+        },
+        {
+          "quantity": "2",
+          "measurement": "slices",
+          "ingredient": "Bread"
+        },
+        {
+          "quantity": "1",
+          "measurement": "tsp",
+          "ingredient": "Dijon mustard"
+        },
+        {
+          "quantity": "1",
+          "measurement": "tsp",
+          "ingredient": "Rapeseed oil"
+        },
+        {
+          "quantity": "30",
+          "measurement": "g",
+          "ingredient": "Cheddar cheese"
+        }
+      ],
+      "categories": [
+        "Few ingredients",
+        "Quick",
+        "Vegetarian"
+      ]
+    }
+  ]
+}
